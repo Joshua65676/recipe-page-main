@@ -7,7 +7,7 @@ body {
     margin-top: 50px;
     width: 800px;
     margin-left: 300px;
-    /* height: 550px; */
+    height: 1650px;
     border-radius: 15px;
 }
 .img {
@@ -117,9 +117,15 @@ li + li {
 .Nutrition-class {
     margin-left: 80px;
 }
-.Nutrition-span1 {
-
+.Nutrition-span3 {
+    margin-left: 270px;
+}
+.Nutrition-span4 {
+    margin-left: 260px;
+}
+.Nutrition-span5 {
+    margin-left: 285px;
 }
 .Nutrition-span2 {
-    margin-left: 250px;
+    margin-left: 255px;
 }
