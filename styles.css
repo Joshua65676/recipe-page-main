@@ -136,13 +136,14 @@ li + li {
     color: hsl(14, 45%, 36%);
 }
 
-@media  screen and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 768px) {
     .main-body {
       margin-left: -50px;
       margin-top: 0px;
       width: 150;
       height: 2155px;
       align-self: center;
+      overflow-x: hidden;
     }
     .hr {
         width: 350px;
